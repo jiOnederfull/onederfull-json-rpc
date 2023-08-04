@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"debug_traceBlockByHash","params":["0x70eafaa05ee293fa4215fcd078a06bc6e5a00255cec962163cf7f2eeba4eb061", {}],"id":1}' localhost:8551
